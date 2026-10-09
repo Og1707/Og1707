@@ -4,10 +4,10 @@
 
 <br/>
 
-<a href="https://TU-PORTAFOLIO.com"><img src="https://img.shields.io/badge/PORTAFOLIO-0b1220?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0b1220" alt="Portafolio"/></a>
-<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LINKEDIN-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0b1220" alt="LinkedIn"/></a>
+<a href="https://portfolio-pied-theta-14.vercel.app/"><img src="https://img.shields.io/badge/PORTAFOLIO-0b1220?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0b1220" alt="Portafolio"/></a>
+<a href="www.linkedin.com/in/osman-pérez-690aa9271"><img src="https://img.shields.io/badge/LINKEDIN-0b1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0b1220" alt="LinkedIn"/></a>
 <a href="https://github.com/Og1707"><img src="https://img.shields.io/badge/GITHUB-0b1220?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="GitHub"/></a>
-<a href="mailto:osmansensacion@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b1220" alt="Email"/></a>
+<a href="mailto:osmangomez146@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b1220" alt="Email"/></a>
 
 <br/>
 
@@ -171,8 +171,8 @@ Desarrollador **backend** e ingeniero de **automatización con IA**. Diseño e i
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/CONECTEMOS_EN_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:osmansensacion@gmail.com"><img src="https://img.shields.io/badge/ESC%C3%8DBEME-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b1220" alt="Email"/></a>
+<a href="www.linkedin.com/in/osman-pérez-690aa9271"><img src="https://img.shields.io/badge/CONECTEMOS_EN_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:osmangomez146@gmail.com"><img src="https://img.shields.io/badge/ESC%C3%8DBEME-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0b1220" alt="Email"/></a>
 
 <br/><br/>
 
